@@ -1,0 +1,3 @@
+2024-07-24 07:08:11 [AWT-EventQueue-0] INFO  repository.CustomerDAOImpl - Todas las entidades obtenidas con éxito
+2024-07-24 07:08:25 [AWT-EventQueue-0] INFO  repository.CustomerDAOImpl - Entidad actualizada con éxito: Customer{id='2', name='María García', email='mariagarcia@example.com', phone='+34987654321'}
+2024-07-24 07:08:25 [AWT-EventQueue-0] INFO  repository.CustomerDAOImpl - Todas las entidades obtenidas con éxito
